@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">REGISTER</string>
+    <string name="your_username">Your Username</string>
+    <string name="welcome">Welcome</string>
+    <string name="is_admin">is ADMIN</string>
+    <string name="admin">ADMIN</string>
+    <string name="VEDASTE">PASSWORD</string>
+    <string name="your_pass_is">Your pass is</string>
+    <string name="message">Message</string>
+    <string name="edit_message">Edit_message</string>
+    <string name="uwihanganye_vedaste">uwihanganye vedaste</string>
+    <string name="ug_217058183">UG: 217058183</string>
+    <string name="navigation_drawe_open">Open navigation drawer</string>
+    <string name="navigation_drawe_close">Close navigation drawer</string>
+    <string name="view_message">view_message</string>
+    <string name="type_here_your_message">type here your message</string>
+    <string name="save_your_message">save your message</string>
+    <string name="edit_your_message_here">edit your message here</string>
+    <string name="edit_here">edit here</string>
+    <string name="save_changes">save changes</string>
+    <string name="changed">password changed</string>
+    <string name="profile_change">profile changed</string>
+    <string name="this_is_massage">this is massage</string>
+    <string name="pass_change">pass change</string>
+    <string name="change_info">change info</string>
+    <string name="edit">edit</string>
+    <string name="view">view</string>
+    <string name="not_register">not_register?</string>
+</resources>
